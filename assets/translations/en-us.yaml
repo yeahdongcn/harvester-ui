@@ -4310,7 +4310,7 @@ harvester:
       title: Error connecting to WebSocket
       disconnectedWarning: "Disconnected from server, attempting to reconnect..."
   glance: 
-    version: Harvester Version
+    version: KubeDirector Version
   bundleModal:
     title: Generate Support Bundle
     url: Issue URL
@@ -4350,7 +4350,7 @@ harvester:
     network: Networks
     advanced: Advanced Options
   nav:
-    title: Harvester
+    title: KubePresident
     backToRancher: Rancher
     dashboard: Dashboard
   action:
@@ -4708,7 +4708,7 @@ harvester:
     templateType: Template Type
   loginPage:
     howdy: Howdy!
-    welcome: Welcome to Harvester
+    welcome: Welcome to KubePresident
     username: Username
     password: Password
     newPassword: New Password
@@ -4740,11 +4740,11 @@ harvester:
       'vlan': Default physical NIC name of the VLAN network.
       'api-ui-source': Config how to load the API and UI source.
       'backup-target': Custom back target to store VM backups.
-      'log-level': Configure Harvester server log level. Default to info.
+      'log-level': Configure KubePresident server log level. Default to info.
       'rancher-enabled': Specify whether to display the Rancher UI navigation button or not.
-      'server-version': Harvester server version.
-      'upgrade-checker-enabled': Specify whether to enable Harvester upgrade check or not. Default is true.
-      'upgrade-checker-url': Default Harvester upgrade check url. Only used when the <code>upgrade-checker-enabled</code>  is equal to true.
+      'server-version': KubePresident server version.
+      'upgrade-checker-enabled': Specify whether to enable KubePresident upgrade check or not. Default is true.
+      'upgrade-checker-url': Default KubePresident upgrade check url. Only used when the <code>upgrade-checker-enabled</code>  is equal to true.
 ##############################
 ### Advanced Settings
 ##############################
