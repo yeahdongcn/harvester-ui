@@ -45,7 +45,7 @@ locale:
   none: (None)
 
 nav:
-  title: Harvester
+  title: KubePresident
   backToRancher: Rancher
   shell: Kubectl Shell
   import: Import YAML
@@ -3048,7 +3048,7 @@ harvester:
       title: Error connecting to WebSocket
       disconnectedWarning: "Disconnected from server, attempting to reconnect..."
   glance: 
-    version: Harvester Version
+    version: KubePresident Version
   bundleModal:
     title: Generate Support Bundle
     url: Issue URL
@@ -3387,7 +3387,7 @@ harvester:
     templateType: Template Type
   loginPage:
     howdy: Howdy!
-    welcome: Welcome to Harvester
+    welcome: Welcome to KubePresident
     username: Username
     password: Password
     newPassword: New Password

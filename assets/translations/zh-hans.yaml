@@ -44,7 +44,7 @@ locale:
   none: (None)
 
 nav:
-  title: Harvester
+  title: KubePresident
   backToRancher: Rancher
   shell: 命令行
   group:
@@ -2487,7 +2487,7 @@ harvester:
       title: 连接至服务器时发生错误！
       disconnectedWarning: "断开与服务器的连接，尝试重新连接..."
   glance: 
-    version: Harvester 版本
+    version: KubePresident 版本
   bundleModal:
     title: 创建支持包
     url: Issue地址
@@ -2806,7 +2806,7 @@ harvester:
     templateType: 模板类型
   loginPage:
     howdy: 您好!
-    welcome: 欢迎使用 Harvester
+    welcome: 欢迎使用 KubePresident
     username: 用户名
     password: 密码
     newPassword: 新密码
